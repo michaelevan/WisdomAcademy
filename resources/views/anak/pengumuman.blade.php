@@ -202,5 +202,6 @@
 
         calendar.render();
         showtanggal($('#tglhariini').val());
+        // haihaihaih
     });
 </script>
